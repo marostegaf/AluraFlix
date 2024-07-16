@@ -1,0 +1,24 @@
+.banner {
+    background-color: #262626;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 75px 0;
+    border-bottom: 3px solid #257be5;
+}
+
+.banner h2 {
+    font-size: 38px;
+    color: #257be5;
+}
+
+.banner p {
+    font-size: 34px;
+    color: #FFFFFF;
+}
+
+.videos-lancamento {
+    display: flex;
+    gap: 50px;
+    padding-top: 80px;
+}

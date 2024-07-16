@@ -1,0 +1,60 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "titulo": "Desenvolvedora Front End",
+      "categoria": "Front End",
+      "imagem": "https://i.ytimg.com/vi/ZY3-MFxVdEw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBS9pc6mdYSygHZqcwqBT75vcct9A",
+      "video": "https://www.youtube.com/watch?v=ZY3-MFxVdEw&t=2s&ab_channel=Alura"
+    },
+    {
+      "id": "2",
+      "titulo": "O QUE É FRONT-END?",
+      "categoria": "Front End",
+      "imagem": "https://i.ytimg.com/vi/Em0R3csNMVE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpQbWUQq7eApJcYg2UYlTESBA9dQ",
+      "video": "https://youtu.be/Em0R3csNMVE"
+    },
+    {
+      "id": "3",
+      "titulo": "Front End para Iniciantes",
+      "categoria": "Front End",
+      "imagem": "https://i.ytimg.com/vi/VKmPGmFY7H4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4QzAaHO8gbY30idyxlhulE6IQYg",
+      "video": "https://www.youtube.com/watch?v=VKmPGmFY7H4&ab_channel=FabioAkita"
+    },
+    {
+      "id": "4",
+      "titulo": "Estágio de Front End",
+      "categoria": "Front End",
+      "imagem": "https://i.ytimg.com/vi/Q7ii1RkTk_A/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCx1XsSnWUPdDn9kpMO4JiYVtbveg",
+      "video": "https://www.youtube.com/watch?v=Q7ii1RkTk_A&ab_channel=Waterfall"
+    },
+    {
+      "id": "5",
+      "titulo": "Tudo sobre Front End",
+      "categoria": "Front End",
+      "imagem": "https://i.ytimg.com/vi/8xo1FID4TqU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAVSyI-F35TmNf6JYGECP-TjEqjKg",
+      "video": "https://www.youtube.com/watch?v=8xo1FID4TqU&ab_channel=GabrielRangel-Fala%2CCoders%21"
+    },
+    {
+      "id": "6",
+      "titulo": "Seja um Programador Back-End de Sucesso",
+      "categoria": "Back End",
+      "imagem": "https://i.ytimg.com/vi/TJ90DZjYdWI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAmLyVphEWheVLaj3McyhjzGKS1Q",
+      "video": "https://www.youtube.com/watch?v=TJ90DZjYdWI&ab_channel=C%C3%B3digoFonteTV"
+    },
+    {
+      "id": "7",
+      "titulo": "Currículo de um Back End",
+      "categoria": "Back End",
+      "imagem": "https://i.ytimg.com/vi/SqUbztjMmp4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvkm1oRp2acjohye3Ek0wUVazNJA",
+      "video": "https://www.youtube.com/watch?v=SqUbztjMmp4&ab_channel=Bolt"
+    },
+    {
+      "id": "a325",
+      "titulo": "Mobile Teste",
+      "categoria": "Mobile",
+      "imagem": "https://i.ytimg.com/vi/X-XfVvd41O8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFs8UerZe9ldPBgeW6qQs_BqD8ng",
+      "video": "https://youtu.be/X-XfVvd41O8"
+    }
+  ]
+}
