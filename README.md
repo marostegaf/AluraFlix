@@ -7,13 +7,11 @@
 #### Vídeos
 ```bash
 {
-  {
-      "id": num,
-      "titulo": "Título",
-      "categoria": "Categoria",
-      "imagem": "hppt://url.com",
-      "video": "https://www.youtube.com/url"
-    }
+    "id": num,
+    "titulo": "Título",
+    "categoria": "Categoria",
+    "imagem": "hppt://url.com",
+    "video": "https://www.youtube.com/url"
 }
 ```
 
